@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-spider1&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../func_mulvar" />
+      <root url="file://$PROJECT_DIR$/../../../server" />
+      <root url="file://$PROJECT_DIR$/../../../img" />
+      <root url="file://$PROJECT_DIR$/../../../channel" />
+      <root url="file://$PROJECT_DIR$/../../../new_test" />
+      <root url="file://$PROJECT_DIR$/../../../deadlock" />
+      <root url="file://$PROJECT_DIR$/../../../for_if" />
+      <root url="file://$PROJECT_DIR$/../../../point" />
+      <root url="file://$PROJECT_DIR$/../../../storage_cell" />
+      <root url="file://$PROJECT_DIR$/../../../slice_test" />
+      <root url="file://$PROJECT_DIR$/../../../struct_add_method" />
+      <root url="file://$PROJECT_DIR$/../../../goroutines_chan" />
+      <root url="file://$PROJECT_DIR$/../../../client" />
+      <root url="file://$PROJECT_DIR$/../../../bubble_sort" />
+      <root url="file://$PROJECT_DIR$/../../../goroutine" />
+      <root url="file://$PROJECT_DIR$/../../../helloworld" />
+      <root url="file://$PROJECT_DIR$/../../../health_notify" />
+      <root url="file://$PROJECT_DIR$/../../../lagou_lib" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../lagou" />
+      <root url="file://$PROJECT_DIR$/../../../time_test" />
+      <root url="file://$PROJECT_DIR$/../../../concurrency" />
+      <root url="file://$PROJECT_DIR$/../../../Itoa_Atoi" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../label_goto_break_continue" />
+      <root url="file://$PROJECT_DIR$/../../../testGUI" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../func_mulvar" />
+      <root url="file://$PROJECT_DIR$/../../../server" />
+      <root url="file://$PROJECT_DIR$/../../../img" />
+      <root url="file://$PROJECT_DIR$/../../../channel" />
+      <root url="file://$PROJECT_DIR$/../../../new_test" />
+      <root url="file://$PROJECT_DIR$/../../../deadlock" />
+      <root url="file://$PROJECT_DIR$/../../../for_if" />
+      <root url="file://$PROJECT_DIR$/../../../point" />
+      <root url="file://$PROJECT_DIR$/../../../storage_cell" />
+      <root url="file://$PROJECT_DIR$/../../../slice_test" />
+      <root url="file://$PROJECT_DIR$/../../../struct_add_method" />
+      <root url="file://$PROJECT_DIR$/../../../goroutines_chan" />
+      <root url="file://$PROJECT_DIR$/../../../client" />
+      <root url="file://$PROJECT_DIR$/../../../bubble_sort" />
+      <root url="file://$PROJECT_DIR$/../../../goroutine" />
+      <root url="file://$PROJECT_DIR$/../../../helloworld" />
+      <root url="file://$PROJECT_DIR$/../../../health_notify" />
+      <root url="file://$PROJECT_DIR$/../../../lagou_lib" />
+      <root url="file://$PROJECT_DIR$/../../../test" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../lagou" />
+      <root url="file://$PROJECT_DIR$/../../../time_test" />
+      <root url="file://$PROJECT_DIR$/../../../concurrency" />
+      <root url="file://$PROJECT_DIR$/../../../Itoa_Atoi" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../label_goto_break_continue" />
+      <root url="file://$PROJECT_DIR$/../../../testGUI" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
